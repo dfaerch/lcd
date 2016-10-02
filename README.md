@@ -38,9 +38,9 @@ Installation
 ------------
 
 
-Place the program somewhere. Eg. /opt/LocateChdir/. Then add this to your shells environment.
+Place the program somewhere. Eg. /opt/lcd/. Then add this to your shells environment.
 
-    lcd () { eval "`/opt/LocateChdir/lcd.pl $*`";}
+    lcd () { eval "`/opt/lcd/lcd.pl $*`";}
 
 
 This can be put in eg. ~/.bashrc. On Ubuntu it makes sense to put it in ~/.bash_aliases, if you like. Then restart your shell start lcd'ing.
