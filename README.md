@@ -1,4 +1,4 @@
-# LocateChdir aka. "lcd"
+# lcd - Locate Change Dir
 
 Program that uses the "locate" command and some cleverness, to find the directory the user wants to "cd" to. Simply search by running the command with one or more (ordered) string arguments to look for in the path.
 
