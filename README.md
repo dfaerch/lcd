@@ -29,8 +29,8 @@ You need perl, which is usually on most Linux's & Unix's by default.
 
 You need to have locate. This is also somewhat default. "updatedb" must have been run at least once. Check your "locate" installation by running "locate home/|head". Either you get path names or you get an error. If missing, then you must install it. For debian/ubuntu you would do:
 
- $ sudo apt-get install mlocate
- $ sudo updatedb
+    $ sudo apt-get install mlocate
+    $ sudo updatedb
 
 Let updatedb run to completion (can take a minute or two).
 
