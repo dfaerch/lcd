@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 #
 # lcd - the Locate Change Dir command. Copyright 2016 - Dan Faerch.
+# 
+# License: GPL 3.0 or later
 #
 
 use warnings;
